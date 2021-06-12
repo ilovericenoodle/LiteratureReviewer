@@ -4,10 +4,8 @@ Conducting literature review requires active searching, filtering and organizati
 LiteratureReviewer is a tool for a more efficient literature review process. It has the following functionalities:
 
 1. Literature Retrieval
-2. Network Analysis
-   Helps identifying the relation between literature
-3. Development Summary and Trend Analysis
-   Creates a roadmap of the key findings on certain topic
+2. Network Analysis: Helps identifying the relation (citations, similarities) among literature
+3. Development Summary and Trend Analysis: Creates a roadmap of the key findings on certain topic
 
    
    
