@@ -6,7 +6,7 @@ LiteratureReviewer is an effort for a more efficient literature review process. 
 1. Literature Retrieval: Integrate ArXivs, JSTOR and other hubs for literatures into one search bar. Search and download painlessly
 2. Network Analysis: Helps to identify important works based on the relation (citations, similarities) among literature
 3. Development Summary and Trend Analysis: Creates a roadmap of the key findings on a certain topic
-4. Next Paper to Read: A Customizable Recommendation System
+4. Next Paper to Read: A fusion of a planner and a recommendation system, which helps to prioritize one's reading list 
 
    
    
