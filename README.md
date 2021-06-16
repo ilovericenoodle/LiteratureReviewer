@@ -6,6 +6,7 @@ LiteratureReviewer is a tool for a more efficient literature review process. It 
 1. Literature Retrieval
 2. Network Analysis: Helps to identify the relation (citations, similarities) among literature
 3. Development Summary and Trend Analysis: Creates a roadmap of the key findings on a certain topic
+4. Next Paper to Read: A Customizable Recommendation System
 
    
    
